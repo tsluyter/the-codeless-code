@@ -1,0 +1,31 @@
+Title: Onveranderlijk
+Number: 15
+Lang: nl
+Translator: tsluyter
+Illus.0.title: {Zucht}... ja, ik veronderstel dat je het ei hard ZOU kunnen koken...
+
+Een novice was pas gearriveerd uit de [[Temple of Three Stones|Tempel van Drie Stenen]]
+waar louter C wordt benut. Hij was nog onbekend met de wegen
+van Java en stuitte al gauw op de onveranderlijkheid van Strings.
+
+"Ik wil alleen maar de inhoud van dit veld veranderen naar 
+gemengde lettergroottes!" riep hij. "Maar dit vereist het maken
+van een StringBuffer en een bijpassende, nieuwe String, waarbij
+een grote hoeveelheid karakters onaangeraakt tweemaal worden 
+gekopieerd! Om welke reden zijn Strings als zodanig ontworpen?"
+
+Een geleerde zuster hoorde zijn klacht en adviseerde hem: "De 
+koperen munt die van hand tot hand gaat kan ook morgen nog worden
+doorgegeven; maar niet zo het ei." De novice zag het licht.
+
+Al gauw definieerde de novice /al/ zijn classes als zijnde 
+onveranderlijk. Niet ŽŽn eigenschap kon nog worden aangepast:
+een nieuwe instantie met de nodige aanpassingen moest telken
+worden gemaakt. Zijn constructors waren soms angstaanjagend
+groot en complex. 
+
+De Java meester kreeg dit ter ore en zei: "Laat de vorm van 
+een ei uit koper gieten, om de non als ontbijt te dienen."
+
+Op deze wijze werd de non belast met het corrigeren van de
+novice.

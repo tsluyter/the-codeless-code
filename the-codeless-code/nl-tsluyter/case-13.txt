@@ -1,0 +1,28 @@
+Title: Evolutie
+Number: 13
+Lang: nl
+Translator: tsluyter
+
+Een novice bestudeerde de Java meester {{*}} zijn code en 
+maakte zich diens stijl tot in de puntjes eigen: de ontwerp-
+patronen, de naamconventies voor variabelen, de hoeveelheid
+spaties voor het inspringen van een genest block code. Zelfs
+het commentaar was geschreven met een indrukwekkende imitatie
+van de meester's eigen schrijfstijl. 
+
+Tijdens zijn volgende beoordeling was de novice verbaasd om
+te zien dat de Java meester hoogst verontgenoegd was. 
+
+"Maar meester," protesteerde de leerling. "Ik heb uw voorbeeld
+tot op de laatste puntkomma gevolgd. Kijk, hier is een hulp- 
+programma dat u zelf vorige maand nog hebt geschreven: lijkt 
+zij niet als twee druppels water op mijn eigen code?"
+
+"En daarin ligt het probleem," fronste de meester. "Gisteren 
+was ik een zot, de week ervoor een idioot en vorige maand was
+ik een imbeciel. Toon me geen code die ik gisteren geschreven
+zou kunnen hebben. Toon me code zoals ik haar morgen zou 
+schrijven."
+
+
+{{*}} Waarschijnlijk [[Banzen]].

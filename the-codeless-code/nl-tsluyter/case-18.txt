@@ -1,0 +1,67 @@
+Title: Vereiste eigenschappen
+Number: 18
+Lang: nl
+Translator: tsluyter
+
+Dezelfde monnik van de [[Elephant's Footprint Clan|Olifanten Voetafdruk Klan]] boog zich diep
+over de door zijn klan gemaakte code. Er waren verschillende
+implementaties van een bepaald Data Access Object die met
+elkander wedijverden; momenteel poogde hij te besluiten welke
+de definitieve oplossing zou worden voor zijn klan. 
+ 
+"Elke implementatie heeft zijn eigen voor- en nadelen, zijn
+deugden en ergernissen," sprak de monnik tegen de Java
+meester. "En elk heeft eigenschappen die aan de anderen
+ontbreken. Ik ze op ŽŽn na in de winden van vergetelheid
+werpen. Hoe moet ik kiezen?"
+
+"I kan je niet antwoorden wanneer ik dorstig ben," zei de 
+meester. "In de kast naast je staan drie houten bekers. Vul
+ŽŽn uit de rivier, de tweede uit de put van de tempel en 
+de derde bij de waterverkoper in het dorp. Breng ze allen
+naar mij terug zonder een druppel te morsen en ik bied je
+alle hulp die ik kan geven."
+
+Dit deed de monnik en hij plaatste de drie bekers voor de
+meester.
+
+"Wat heb je tot zover geleerd?" vroeg de meester.
+
+De monnik boog. "Geef je een munt aan de waterverkoper in
+het dorp, dan slaat hij tweemaal op een gong: eens voordat
+hij je kop vult en eens wanneer je je eerste slok hebt 
+genomen. Vul je je kop bij de tempelput, dan klinkt er geen
+gong maar is de emmer zwaar. Doop je de beker in de rivier
+dan raken de vissen ontsteld en moet de riviergod tevreden
+worden gesteld met een gift van tien witte steentjes." 
+
+"Ik kan uit maar ŽŽn van deze drinken," zei de meester. 
+"Welke zal mij het meeste bevallen?"
+
+De monnik overwoog de kwestie nauwgelet. "De rivier was
+koud, maar niet bepaald schoon. Ik heb vroeger uit de put
+gedronken en haar water is bitter van de kalk. En hoewel
+ik niet bekend ben met de waterverkoper, hoorde ik zijn 
+gong vandaag vele malen. Gebaseerd op deze feiten zou ik
+de kop van de waterverkoper kiezen."
+
+"Een zeer zinnige conclusie," zei de meester. "Waarachtig,
+ik bezoek al sinds acht jaar elke ochtend de waterverkoper 
+en ik vind de ervaring telkens zeer bevredigend. Welke beker
+is het die hij heeft gevuld?"
+
+De meester dronk uit de aangewezen beker en zijn gezicht
+toonde duidelijke teleurstelling. "Jonge broeder," zei
+hij. "Je hebt mijn dorst volledig verkeerd begrepen. Waar
+is het geluid van de gong?"
+
+- - -
+
+De dorst van de meester is niet bevredigd //
+maar de monnik heeft zijn antwoord -- //
+welk geluid was het bekken dat het goot? //
+
+De monnik was beter gediend //
+als hij een koperen reukvat in het raamkozijn had geplaatst //
+en louter op de regen had gewacht.//
+
