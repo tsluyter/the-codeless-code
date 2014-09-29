@@ -1,0 +1,26 @@
+Title: Geef haar een andere naam
+Number: 19
+Lang: nl
+Translator: tsluyter
+
+De oude schriftgeleerde werd gevraagd waarom, in zijn officiëlen
+verslagen, de tempels en klans bij naam werden genoemd, maar de
+vele monniken en priesters niet.
+
+"Als ik jou een tabel met getallen gaf om te verwerken, zou jij
+dan eerst een naam geven aan elke zeven?" vroeg de schrijver,
+de vraagsteller met een zwaai van zijn inkt-besmeurde hand weg
+wuivend. 
+
+Dit werd verteld aan de Java meester, die knikte en zijn thee
+opdronk. 
+
+De volgende ochtend besteeg de schriftgeleerde de trappen naar
+zijn kantoor om daar het volgende in dikke blokletters boven zijn
+deur aan te treffen:
+
+      public static final int NUM_DAYS_IN_WEEK =
+
+Daarmee was de oude schrijver [[Qi]] verlicht.
+
+
